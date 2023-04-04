@@ -34,6 +34,7 @@ Sayı: 24
 19 + 5
 
 /*****exercise1.3*****/
+
 :pushpin:Klavyeden int türden bir sayı isteyiniz. Onun asal çarpanlarını aralarına SPACE koyarak yazdırınız. Örneğin:
 
 Sayı: 100
